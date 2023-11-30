@@ -32,4 +32,5 @@ clickHandler =()=>{
 /**
  * Put index from start, end and increment and decrement respectively.
  * compare till you break or start>end
+ * ** TWO POINTER ALGO
  */
